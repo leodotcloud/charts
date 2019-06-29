@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  jupyter:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: 2019-06-29T15:50:35.476101-07:00
+    description: A Helm chart to deploy Jupyter
+    digest: fd3c25f740ee95885feb6a639f18ec9bd349263c127587a2508b042269fbe505
+    home: https://github.com/leodotclou/charts/src/jupyter
+    maintainers:
+    - email: leodotcloud@gmail.com
+      name: Murali Paluru
+    name: jupyter
+    sources:
+    - https://github.com/leodotclou/charts/src/jupyter
+    urls:
+    - dist/jupyter-0.1.0.tgz
+    version: 0.1.0
+  rstudio:
+  - apiVersion: v1
+    appVersion: 3.5.1
+    created: 2019-06-29T15:50:35.4764-07:00
+    description: A Helm chart to deploy RStudio
+    digest: a4e2963575aefe9f87b963f428c8f311c5ad5def1b409575daf0536be60d6b87
+    home: https://github.com/leodotclou/charts/src/rstudio
+    maintainers:
+    - email: leodotcloud@gmail.com
+      name: Murali Paluru
+    name: rstudio
+    sources:
+    - https://github.com/leodotclou/charts/src/rstudio
+    urls:
+    - dist/rstudio-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-06-29T15:50:35.475527-07:00
